@@ -1,1 +1,1 @@
-# Programa-de-deteccion-de-pizzarras
+# Programa-de-deteccion-de-pizarras
